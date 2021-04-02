@@ -2,13 +2,9 @@ body{
     background-color: #0a0a0a;
 
 }
-.center {
-    width: 382px;
-    height: 135px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    z-index: 1;
-   
+.insta{
+    margin-left: 124p;
+    margin-bottom: 10p;
+    margin-top: 82p;
  
   }
